@@ -1,5 +1,17 @@
 # Home Assistant ntfy-send
 
+## Repository Info
+
+- Repository home: https://git.erdelynet.com/mike/hass-ntfy-send
+- Github Mirror: https://github.com/merdely/hass-ntfy-send
+
+## Issues / Pull Requests
+
+Issues and other interactions should take place in the Github Mirror
+
+- https://github.com/merdely/hass-ntfy-send/issues
+- https://github.com/merdely/hass-ntfy-send/pulls
+
 ## Background
 
 In order to be able to send notifications from Home Assistant with Actions,
